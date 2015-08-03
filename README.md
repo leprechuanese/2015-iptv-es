@@ -12,16 +12,13 @@ Solo interezan canales de habla hispana (castellana/latina/español).
 Instalacion:
 
 Abre Kodi/XBMX/TVMC y selecciona;
-Sistema(SYSTEM)->
-Complementos(Add-ons)->
-Complementos Deshabilitados(Disable Add-ons)->
-PVR IPTV Simple Client->
-Habilitar(Enable)->
+Sistema(SYSTEM)->Complementos(Add-ons)->Complementos Deshabilitados(Disable Add-ons)->
+PVR IPTV Simple Client->Habilitar(Enable)
 
 Ahi mismo, despues de Habilitar el Add-on ...escoges
-Configurar(Configure)->
+Configurar(Configure)
 
-En General pones a "Location to Remote Path (Internet address)"
+En "General" pones a "Location to Remote Path (Internet address)"
 Ubicacion->Remote Path (Internet address)
 
 Click en "M3U Play List URL" (Select M3U Play List URL)
@@ -49,8 +46,8 @@ Reinicia XBMC/Kodi/TVMC
 Reboot XBMC/Kodi/TVMC
 
 Television en vivo esta lista para usar, usted deveria ver una nueva
-opcion en menu principal TV
-Live TV is now setup and ready to use. A TV or Live TV link should 
+opcion en menu principal TV.
+Live TV is now setup and ready to use, you should see a new TV option in main menu.
 now appear in your home menu.
 
 Canales no sirven? Tienes nuevos enlaces? preguntas?
