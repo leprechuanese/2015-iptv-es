@@ -13,6 +13,7 @@ Instalacion:
 
 Abre Kodi/XBMX/TVMC y selecciona;
 Sistema(SYSTEM)->Complementos(Add-ons)->Complementos Deshabilitados(Disable Add-ons)->
+
 PVR IPTV Simple Client->Habilitar(Enable)
 
 Ahi mismo, despues de Habilitar el Add-on ...escoges
@@ -24,15 +25,19 @@ Ubicacion->Remote Path (Internet address)
 Click en "M3U Play List URL" (Select M3U Play List URL)
 
 Y escribes esta direccion (exactamente asi):
+
 https://raw.githubusercontent.com/leprechuanese/2015-iptv-es/master/2015-iptv-es.m3u
 
 Sin salir, en menu General, apaga "Cache m3u at local storage" Y selecciona "OK"
+
 Still in General turn off Cache m3u at local storage & select OK
 
 Regresa al menu principal y vuelve a ir a "Sistema"
+
 Go back to your Home Screen, Select SYSTEM
 
 Selecciona "TV en Vivo"
+
 Select Live TV
 
 En General Habilita opcion "Live TV" seleccionando "Habilitar"
