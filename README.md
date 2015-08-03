@@ -27,7 +27,7 @@ Ubicacion->Remote Path (Internet address)
 Click en "M3U Play List URL" (Select M3U Play List URL)
 
 Y escribes esta direccion (exactamente asi):
-direccion aqui:
+https://raw.githubusercontent.com/leprechuanese/2015-iptv-es/master/2015-iptv-es.m3u
 
 Sin salir, en menu General, apaga "Cache m3u at local storage"
 Y selecciona "OK"
