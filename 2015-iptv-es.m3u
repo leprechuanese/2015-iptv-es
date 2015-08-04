@@ -9,8 +9,6 @@ http://ss6.domint.net:1962/al_edge/antena/playlist.m3u8
 http://75.126.65.232/lv_tvmexiquense/_definst_/broadcast1/chunklist_w561315673.m3u8
 #EXTINF:-1,Ultra Cine HD
 http://vemoxhlslive-i.akamaihd.net/hls/live/219940/vemoxchannel1/iOS/vemoxchannel1@219940/index.m3u8
-#EXTINF:-1,Ultra Cine
-http://vemoxhlslive-i.akamaihd.net/hls/live/219940/vemoxchannel1/iOS/vemoxchannel1@219940/stream2/streamPlaylist.m3u8
 #EXTINF:-1,Azteca 7 Monterrey
 http://38.104.228.230:1938/info7/info7_512/playlist.m3u8
 #EXTINF:-1,SIPSA TV Cancún México
