@@ -7,31 +7,15 @@ http://201.130.193.150:1935/codecsys/smil:ocho.smil/master.m3u8
 http://ss6.domint.net:1962/al_edge/antena/playlist.m3u8
 #EXTINF:-1,Television Mexiquense
 http://75.126.65.232/lv_tvmexiquense/_definst_/broadcast1/chunklist_w561315673.m3u8
-#EXTINF:-1,Nick HD
-http://gdl-cdsse-01.se.linear-abr.cdn.apptv.megacable.com.mx/Apple/NICKHD.m3u8
-#EXTINF:-1,TeleHit HD SD
-http://gdl-cdsse-01.se.linear-abr.cdn.apptv.megacable.com.mx/Apple/THITHD.m3u8
-#EXTINF:-1,TeleHit HS 720p
-http://gdl-cdsse-01.se.linear-abr.cdn.apptv.megacable.com.mx/Apple/THITHD4500.m3u8 
 #EXTINF:-1,Ultra Cine HD
 http://vemoxhlslive-i.akamaihd.net/hls/live/219940/vemoxchannel1/iOS/vemoxchannel1@219940/index.m3u8
 #EXTINF:-1,Ultra Cine
 http://vemoxhlslive-i.akamaihd.net/hls/live/219940/vemoxchannel1/iOS/vemoxchannel1@219940/stream2/streamPlaylist.m3u8
 #EXTINF:-1,Azteca 7 Monterrey
 http://38.104.228.230:1938/info7/info7_512/playlist.m3u8
-#EXTINF:-1,Canal 2 Los Mochis
-http://74.63.97.188:1935/gpacifico2/videogpacifico2/chunklist_w609004457.m3u8#
-#EXTINF:-1,Canal 2 Obregon 
-http://74.63.97.188:1935/gpacifico3/videogpacifico3/chunklist_w1501260201.m3u8#
-#EXTINF:-1,Canal 5 HD 1080 México
-http://200.76.77.237/LIVE/H01/CANAL105/PROFILE05.m3u8?
-#EXTINF:-1,Canal 6 Guadalajara
-rtmp://200.52.193.57:1935/live/unique/live_2650
 #EXTINF:-1,SIPSA TV Cancún México
 http://rightbrainmedia.mpl.miisolutions.net/rightbrainmedia-live-244/_definst_/mp4:GalaTVCancun/playlist.m3u8
 #EXTINF:-1,Telemar Campeche México
 http://wms.tecnoxia.com:1935/8004/8004/telemarmexico.m3u8
 #EXTINF:-1,OnceTV señal internacional
 http://www.oncetvmexicolive.tv:1935/livepkgr2/smil:int.smil/playlist.m3u8
-#EXTINF:-1,Canal 5 Revienta
- rtmp://$OPT:rtmp-raw=rtmp://173.193.242.248/live playpath=zincdic2014?id=12681 swfUrl=http://www.streamify.tv/resources/scripts/eplayer.swf live=1 pageUrl=http://www.streamify.tv/embedplayer/zincdic2014/1/590/400 Conn=S:OK --live 
