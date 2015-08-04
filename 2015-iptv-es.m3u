@@ -17,3 +17,31 @@ http://rightbrainmedia.mpl.miisolutions.net/rightbrainmedia-live-244/_definst_/m
 http://wms.tecnoxia.com:1935/8004/8004/telemarmexico.m3u8
 #EXTINF:-1,OnceTV señal internacional
 http://www.oncetvmexicolive.tv:1935/livepkgr2/smil:int.smil/playlist.m3u8
+#EXTINF:-1,OCHO TV
+http://201.130.193.150:1935/codecsys/smil:ocho.smil/master.m3u8
+#EXTINF:-1,Radio y Televisión Mexiquense
+rtmp://fss28.streamhoster.com:1935/lv_tvmexiquense/_definst_/broadcast1
+#EXTINF:-1,TVMas HD
+rtmp://50.7.98.234/rtv/videortv
+#EXTINF:-1,TVMas VERACRUZ
+http://50.7.98.234:1935/rtv/videortv//playlist.m3u8
+#EXTINF:-1,PROYECTO 40 HD
+http://200.76.77.237/LIVE/H01/CANAL140/PROFILE03.m3u8?
+#EXTINF:-1,TELEFORMULA
+http://200.76.77.237/LIVE/H01/CANAL161/PROFILE03.m3u8?
+#EXTINF:-1,Esp:ANTENA 3 HD
+http://antena3-aos1-apple-live.adaptive.level3.net/apple/antena3/channel01/antena_3_hd_1548K_1280x720_main.m3u8
+#EXTINF:-1,Esp:Telemedellin
+http://uneapple-i.akamaihd.net/hls/live/206414/grupoune_st13@206414/st13_index.m3u8
+#EXTINF:-1,Esp:ANTENA 3
+http://uneapple-i.akamaihd.net/hls/live/205012/grupoune_st3@205012/st3_index.m3u8
+#EXTINF:-1,Esp:TV GALICIA
+http://media3.crtvg.es/live/tvga/hasbahca.m3u8
+#EXTINF:-1,USA:PAC-12 (3)
+http://xrxs.net/video/live-p12wash-1164.m3u8
+#EXTINF:-1,USA:Mission TV
+rtmp://streamer1.streamhost.org/salive/GMImissiontvh
+#EXTINF:-1,USA:iFlix TV
+http://204.107.26.252:1935/live/1991.high.stream/HasBahCa.m3u8
+
+
