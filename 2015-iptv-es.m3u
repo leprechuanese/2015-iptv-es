@@ -11,15 +11,15 @@ http://75.126.65.232/lv_tvmexiquense/_definst_/broadcast1/chunklist_w561315673.m
 http://vemoxhlslive-i.akamaihd.net/hls/live/219940/vemoxchannel1/iOS/vemoxchannel1@219940/index.m3u8
 #EXTINF:-1,Azteca 7 Monterrey
 http://38.104.228.230:1938/info7/info7_512/playlist.m3u8
-#EXTINF:-1,SIPSA TV Cancún México
+#EXTINF:-1,SIPSA TV CancÃºn MÃ©xico
 http://rightbrainmedia.mpl.miisolutions.net/rightbrainmedia-live-244/_definst_/mp4:GalaTVCancun/playlist.m3u8
-#EXTINF:-1,Telemar Campeche México
+#EXTINF:-1,Telemar Campeche MÃ©xico
 http://wms.tecnoxia.com:1935/8004/8004/telemarmexico.m3u8
-#EXTINF:-1,OnceTV señal internacional
+#EXTINF:-1,OnceTV seÃ±al internacional
 http://www.oncetvmexicolive.tv:1935/livepkgr2/smil:int.smil/playlist.m3u8
 #EXTINF:-1,OCHO TV
 http://201.130.193.150:1935/codecsys/smil:ocho.smil/master.m3u8
-#EXTINF:-1,Radio y Televisión Mexiquense
+#EXTINF:-1,Radio y TelevisiÃ³n Mexiquense
 rtmp://fss28.streamhoster.com:1935/lv_tvmexiquense/_definst_/broadcast1
 #EXTINF:-1,TVMas HD
 rtmp://50.7.98.234/rtv/videortv
@@ -402,196 +402,7 @@ http://str103.setplex.net:1935/228/stv_online/playlist.m3u8
 http://hd.worldkast.com:1935/8436/8436/playlist.m3u8
 #EXTINF:-1, tvg-name="Music Videos 30" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/713.png", Music Videos 30
 http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?sd=10&rebase=on
-#EXTINF:-1, tvg-name="HBO East" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1775.png", HBO East
-http://www.razalive.com/demoface.php?id=4765&f=.m3u8
-#EXTINF:-1, tvg-name="HBO 2 East" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/28.png", HBO 2 East
-http://www.razalive.com/demoface.php?id=216&f=.m3u8
-#EXTINF:-1, tvg-name="HBO Signature East" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/545.png", HBO Signature East
-http://www.razalive.com/demoface.php?id=959&f=.m3u8
-#EXTINF:-1, tvg-name="HBO West" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1777.png", HBO West
-http://www.razalive.com/demoface.php?id=4767&f=.m3u8
-#EXTINF:-1, tvg-name="HBO 2 West" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/665.png", HBO 2 West
-http://www.razalive.com/demoface.php?id=1095&f=.m3u8
-#EXTINF:-1, tvg-name="HBO Family East" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1625.png", HBO Family East
-http://www.razalive.com/demoface.php?id=4415&f=.m3u8
-#EXTINF:-1, tvg-name="HBO Comedy East" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/589.png", HBO Comedy East
-http://www.razalive.com/demoface.php?id=1001&f=.m3u8
-#EXTINF:-1, tvg-name="HBO Zone" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/551.png", HBO Zone
-http://www.razalive.com/demoface.php?id=965&f=.m3u8
-#EXTINF:-1, tvg-name="Cinemax East" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/539.png", Cinemax East
-http://www.razalive.com/demoface.php?id=953&f=.m3u8
-#EXTINF:-1, tvg-name="Cinemax West" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/541.png", Cinemax West
-http://www.razalive.com/demoface.php?id=955&f=.m3u8
-#EXTINF:-1, tvg-name="ActionMax East" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1199.png", ActionMax East
 http://www.razalive.com/demoface.php?id=2337&f=.m3u8
-#EXTINF:-1, tvg-name="5 StarMax" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1875.png", 5 StarMax
-http://www.razalive.com/demoface.php?id=4895&f=.m3u8
-#EXTINF:-1, tvg-name="ThrillerMax East" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1297.png", ThrillerMax East
-http://www.razalive.com/demoface.php?id=2533&f=.m3u8
-#EXTINF:-1, tvg-name="Showtime East" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/15.png", Showtime East
-http://www.razalive.com/demoface.php?id=218&f=.m3u8
-#EXTINF:-1, tvg-name="Showtime West" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/555.png", Showtime West
-http://www.razalive.com/demoface.php?id=969&f=.m3u8
-#EXTINF:-1, tvg-name="Showtime 2 East" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/557.png", Showtime 2 East
-http://www.razalive.com/demoface.php?id=971&f=.m3u8
-#EXTINF:-1, tvg-name="Showtime Showcase East" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/659.png", Showtime Showcase East
-http://www.razalive.com/demoface.php?id=1085&f=.m3u8
-#EXTINF:-1, tvg-name="Showtime Extreme East" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/559.png", Showtime Extreme East
-http://www.razalive.com/demoface.php?id=973&f=.m3u8
-#EXTINF:-1, tvg-name="Showtime Beyond East" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/561.png", Showtime Beyond East
-http://www.razalive.com/demoface.php?id=975&f=.m3u8
-#EXTINF:-1, tvg-name="Showtime Next" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/667.png", Showtime Next
-http://www.razalive.com/demoface.php?id=1097&f=.m3u8
-#EXTINF:-1, tvg-name="The Movie Channel East" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/24.png", The Movie Channel East
-http://www.razalive.com/demoface.php?id=220&f=.m3u8
-#EXTINF:-1, tvg-name="The Movie Channel Xtra East" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/563.png", The Movie Channel Xtra East
-http://www.razalive.com/demoface.php?id=1009&f=.m3u8
-#EXTINF:-1, tvg-name="Encore East" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/26.png", Encore East
-http://www.razalive.com/demoface.php?id=222&f=.m3u8
-#EXTINF:-1, tvg-name="Encore Westerns" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/3152.png", Encore Westerns
-http://www.razalive.com/demoface.php?id=9287&f=.m3u8
-#EXTINF:-1, tvg-name="Encore Action East" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1877.png", Encore Action East
-http://www.razalive.com/demoface.php?id=4897&f=.m3u8
-#EXTINF:-1, tvg-name="Starz East" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/23.png", Starz East
-http://www.razalive.com/demoface.php?id=224&f=.m3u8
-#EXTINF:-1, tvg-name="Starz West" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/569.png", Starz West
-http://www.razalive.com/demoface.php?id=981&f=.m3u8
-#EXTINF:-1, tvg-name="Starz Edge East" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/571.png", Starz Edge East
-http://www.razalive.com/demoface.php?id=983&f=.m3u8
-#EXTINF:-1, tvg-name="Starz Cinema East" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/573.png", Starz Cinema East
-http://www.razalive.com/demoface.php?id=985&f=.m3u8
-#EXTINF:-1, tvg-name="Starz Comedy East" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/575.png", Starz Comedy East
-http://www.razalive.com/demoface.php?id=987&f=.m3u8
-#EXTINF:-1, tvg-name="Starz In Black East" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/577.png", Starz In Black East
-http://www.razalive.com/demoface.php?id=989&f=.m3u8
-#EXTINF:-1, tvg-name="Starz Kids & Family East" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/669.png", Starz Kids & Family East
-http://www.razalive.com/demoface.php?id=1099&f=.m3u8
-#EXTINF:-1, tvg-name="SKY Premiere" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/66.png", SKY Premiere
-http://www.razalive.com/demoface.php?id=521&f=.m3u8
-#EXTINF:-1, tvg-name="SKY Modern Greats" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/257.png", SKY Modern Greats
-http://www.razalive.com/demoface.php?id=3301&f=.m3u8
-#EXTINF:-1, tvg-name="SKY Disney" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/68.png", SKY Disney
-http://www.razalive.com/demoface.php?id=523&f=.m3u8
-#EXTINF:-1, tvg-name="SKY Family" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/70.png", SKY Family
-http://www.razalive.com/demoface.php?id=525&f=.m3u8
-#EXTINF:-1, tvg-name="SKY Action & Adventure" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/72.png", SKY Action & Adventure
-http://www.razalive.com/demoface.php?id=527&f=.m3u8
-#EXTINF:-1, tvg-name="SKY Comedy" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/74.png", SKY Comedy
-http://www.razalive.com/demoface.php?id=529&f=.m3u8
-#EXTINF:-1, tvg-name="SKY Crime & Thriller" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/76.png", SKY Crime & Thriller
-http://www.razalive.com/demoface.php?id=531&f=.m3u8
-#EXTINF:-1, tvg-name="SKY Movies Drama" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/259.png", SKY Movies Drama
-http://www.razalive.com/demoface.php?id=545&f=.m3u8
-#EXTINF:-1, tvg-name="SKY Scifi & Horror" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/78.png", SKY Scifi & Horror
-http://www.razalive.com/demoface.php?id=533&f=.m3u8
-#EXTINF:-1, tvg-name="SKY Select" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/80.png", SKY Select
-http://www.razalive.com/demoface.php?id=535&f=.m3u8
-#EXTINF:-1, tvg-name="True Movies 1" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/443.png", True Movies 1
-http://www.razalive.com/demoface.php?id=2453&f=.m3u8
-#EXTINF:-1, tvg-name="True Movies 2" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/261.png", True Movies 2
-http://www.razalive.com/demoface.php?id=2455&f=.m3u8
-#EXTINF:-1, tvg-name="Movies 24" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/263.png", Movies 24
-http://www.razalive.com/demoface.php?id=549&f=.m3u8
-#EXTINF:-1, tvg-name="Film 4" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/253.png", Film 4
-http://www.razalive.com/demoface.php?id=497&f=.m3u8
-#EXTINF:-1, tvg-name="Palladia" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/579.png", Palladia
-http://www.razalive.com/demoface.php?id=991&f=.m3u8
-#EXTINF:-1, tvg-name="Hallmark Movies & Mysteries" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/581.png", Hallmark Movies & Mysteries
-http://www.razalive.com/demoface.php?id=1005&f=.m3u8
-#EXTINF:-1, tvg-name="Sony Movie Channel USA" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/671.png", Sony Movie Channel USA
-http://www.razalive.com/demoface.php?id=1101&f=.m3u8
-#EXTINF:-1, tvg-name="Tennis Channel" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1830.png", Tennis Channel
-http://www.razalive.com/demoface.php?id=4850&f=.m3u8
-#EXTINF:-1, tvg-name="Golf Channel" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1205.png", Golf Channel
-http://www.razalive.com/demoface.php?id=2345&f=.m3u8
-#EXTINF:-1, tvg-name="Setanta Sports" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/265.png", Setanta Sports
-http://www.razalive.com/demoface.php?id=3580&f=.m3u8
-#EXTINF:-1, tvg-name="At The Races" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/267.png", At The Races
-http://www.razalive.com/demoface.php?id=553&f=.m3u8
-#EXTINF:-1, tvg-name="Racing UK" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1285.png", Racing UK
-http://www.razalive.com/demoface.php?id=2477&f=.m3u8
-#EXTINF:-1, tvg-name="Eurosport 1" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1347.png", Eurosport 1
-http://www.razalive.com/demoface.php?id=4317&f=.m3u8
-#EXTINF:-1, tvg-name="Eurosport 2" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1349.png", Eurosport 2
-http://www.razalive.com/demoface.php?id=4322&f=.m3u8
-#EXTINF:-1, tvg-name="MUTV" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/269.png", MUTV
-http://www.razalive.com/demoface.php?id=555&f=.m3u8
-#EXTINF:-1, tvg-name="MSG" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1211.png", MSG
-http://www.razalive.com/demoface.php?id=2351&f=.m3u8
-#EXTINF:-1, tvg-name="BOXnation" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/781.png", BOXnation
-http://www.razalive.com/demoface.php?id=2449&f=.m3u8
-#EXTINF:-1, tvg-name="SKY Sports 1" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1269.png", SKY Sports 1
-http://www.razalive.com/demoface.php?id=2459&f=.m3u8
-#EXTINF:-1, tvg-name="SKY Sports 2" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1271.png", SKY Sports 2
-http://www.razalive.com/demoface.php?id=2461&f=.m3u8
-#EXTINF:-1, tvg-name="SKY Sports 3" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1273.png", SKY Sports 3
-http://www.razalive.com/demoface.php?id=2469&f=.m3u8
-#EXTINF:-1, tvg-name="SKY Sports 4" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1275.png", SKY Sports 4
-http://www.razalive.com/demoface.php?id=2465&f=.m3u8
-#EXTINF:-1, tvg-name="SKY Sports 5" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1277.png", SKY Sports 5
-http://www.razalive.com/demoface.php?id=2467&f=.m3u8
-#EXTINF:-1, tvg-name="SKY Sports F1" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1267.png", SKY Sports F1
-http://www.razalive.com/demoface.php?id=2457&f=.m3u8
-#EXTINF:-1, tvg-name="BT Sport 1" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1287.png", BT Sport 1
-http://www.razalive.com/demoface.php?id=2479&f=.m3u8
-#EXTINF:-1, tvg-name="BT Sport 2" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1289.png", BT Sport 2
-http://www.razalive.com/demoface.php?id=2481&f=.m3u8
-#EXTINF:-1, tvg-name="ASTRO SuperSport 1" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1279.png", ASTRO SuperSport 1
-http://www.razalive.com/demoface.php?id=2471&f=.m3u8
-#EXTINF:-1, tvg-name="ASTRO SuperSport 2" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1281.png", ASTRO SuperSport 2
-http://www.razalive.com/demoface.php?id=2473&f=.m3u8
-#EXTINF:-1, tvg-name="ASTRO SuperSport 3" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1283.png", ASTRO SuperSport 3
-http://www.razalive.com/demoface.php?id=2475&f=.m3u8
-#EXTINF:-1, tvg-name="Yes Network" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1812.png", Yes Network
-http://www.razalive.com/demoface.php?id=4832&f=.m3u8
-#EXTINF:-1, tvg-name="Comcast Sports Bay Area" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/3235.png", Comcast Sports Bay Area
-http://www.razalive.com/demoface.php?id=9262&f=.m3u8
-#EXTINF:-1, tvg-name="Fox Sun Sports Florida" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1820.png", Fox Sun Sports Florida
-http://www.razalive.com/demoface.php?id=4840&f=.m3u8
-#EXTINF:-1, tvg-name="Fox Sports Southwest" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/2722.png", Fox Sports Southwest
-http://www.razalive.com/demoface.php?id=6997&f=.m3u8
-#EXTINF:-1, tvg-name="Fox Sports Prime Ticket" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/2719.png", Fox Sports Prime Ticket
-http://www.razalive.com/demoface.php?id=6994&f=.m3u8
-#EXTINF:-1, tvg-name="Sportnet LA" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/2749.png", Sportnet LA
-http://www.razalive.com/demoface.php?id=7189&f=.m3u8
-#EXTINF:-1, tvg-name="MLB Extra Innings 1" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/3009.png", MLB Extra Innings 1
-http://www.razalive.com/demoface.php?id=8629&f=.m3u8
-#EXTINF:-1, tvg-name="MLB Extra Innings 2" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/3011.png", MLB Extra Innings 2
-http://www.razalive.com/demoface.php?id=8634&f=.m3u8
-#EXTINF:-1, tvg-name="MLB Extra Innings 3" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/3014.png", MLB Extra Innings 3
-http://www.razalive.com/demoface.php?id=8636&f=.m3u8
-#EXTINF:-1, tvg-name="MLB Extra Innings 4" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/3016.png", MLB Extra Innings 4
-http://www.razalive.com/demoface.php?id=8641&f=.m3u8
-#EXTINF:-1, tvg-name="MLB Extra Innings 5" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/3021.png", MLB Extra Innings 5
-http://www.razalive.com/demoface.php?id=8644&f=.m3u8
-#EXTINF:-1, tvg-name="MLB Extra Innings 6" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/3026.png", MLB Extra Innings 6
-http://www.razalive.com/demoface.php?id=8646&f=.m3u8
-#EXTINF:-1, tvg-name="MLB Extra Innings 7" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/3031.png", MLB Extra Innings 7
-http://www.razalive.com/demoface.php?id=8651&f=.m3u8
-#EXTINF:-1, tvg-name="NBA League Pass 1" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/3034.png", NBA League Pass 1
-http://www.razalive.com/demoface.php?id=8576&f=.m3u8
-#EXTINF:-1, tvg-name="NBA League Pass 2" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/3036.png", NBA League Pass 2
-http://www.razalive.com/demoface.php?id=8581&f=.m3u8
-#EXTINF:-1, tvg-name="NBA League Pass 3" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/3041.png", NBA League Pass 3
-http://www.razalive.com/demoface.php?id=8586&f=.m3u8
-#EXTINF:-1, tvg-name="NBA League Pass 4" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/3046.png", NBA League Pass 4
-http://www.razalive.com/demoface.php?id=8591&f=.m3u8
-#EXTINF:-1, tvg-name="NBA League Pass 5" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/3051.png", NBA League Pass 5
-http://www.razalive.com/demoface.php?id=8594&f=.m3u8
-#EXTINF:-1, tvg-name="NBA League Pass 6" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/3056.png", NBA League Pass 6
-http://www.razalive.com/demoface.php?id=8599&f=.m3u8
-#EXTINF:-1, tvg-name="NHL Center Ice 1" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/3059.png", NHL Center Ice 1
-http://www.razalive.com/demoface.php?id=8604&f=.m3u8
-#EXTINF:-1, tvg-name="NHL Center Ice 2" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/3064.png", NHL Center Ice 2
-http://www.razalive.com/demoface.php?id=8606&f=.m3u8
-#EXTINF:-1, tvg-name="NHL Center Ice 3" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/3069.png", NHL Center Ice 3
-http://www.razalive.com/demoface.php?id=8611&f=.m3u8
-#EXTINF:-1, tvg-name="NHL Center Ice 4" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/3074.png", NHL Center Ice 4
-http://www.razalive.com/demoface.php?id=8614&f=.m3u8
-#EXTINF:-1, tvg-name="NHL Center Ice 5" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/3079.png", NHL Center Ice 5
-http://www.razalive.com/demoface.php?id=8621&f=.m3u8
-#EXTINF:-1, tvg-name="NHL Center Ice 6" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/3084.png", NHL Center Ice 6
-http://www.razalive.com/demoface.php?id=8626&f=.m3u8
 #EXTINF:-1, tvg-name="Sport 1" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/437.png", Sport 1
 http://xrxs.net/video/live-p12netw-4728.m3u8
 #EXTINF:-1, tvg-name="Sport 2" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/287.png", Sport 2
@@ -608,37 +419,35 @@ http://xrxs.net/video/live-p12wash-4728.m3u8
 http://nflioslivesvg2-i.akamaihd.net/hls/live/221521/nflioslive/2015HackerNow_w99d9_g.m3u8
 #EXTINF:-1, tvg-name="Sport 8" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/82.png", Sport 8
 rtmp://cp39414.live.edgefcs.net/live/event1@9756
-#EXTINF:-1, tvg-name="Ultimate Events & Sports" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1197.png", Ultimate Events & Sports
-http://lb.iptvserver.tv:8080/redirect/LiveEdge/boxnation.stream/playlist.m3u8
-#EXTINF:-1, tvg-name="EspaÃ±a 1" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/347.png", EspaÃ±a 1
+#EXTINF:-1, tvg-name="EspaÃƒÂ±a 1" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/347.png", EspaÃƒÂ±a 1
 http://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/index_0748_av-p.m3u8
-#EXTINF:-1, tvg-name="EspaÃ±a 2" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/351.png", EspaÃ±a 2
+#EXTINF:-1, tvg-name="EspaÃƒÂ±a 2" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/351.png", EspaÃƒÂ±a 2
 http://iphone-andaluciatelevision.rtva.stream.flumotion.com/rtva/andaluciatelevision-iphone-multi/main.m3u8
-#EXTINF:-1, tvg-name="EspaÃ±a 3" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/349.png", EspaÃ±a 3
+#EXTINF:-1, tvg-name="EspaÃƒÂ±a 3" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/349.png", EspaÃƒÂ±a 3
 http://corporacionextremena-live.hls.adaptive.level3.net/hls-live/corporacionextremena-channel02/_definst_/live.m3u8
-#EXTINF:-1, tvg-name="EspaÃ±a 4" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1351.png", EspaÃ±a 4
+#EXTINF:-1, tvg-name="EspaÃƒÂ±a 4" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1351.png", EspaÃƒÂ±a 4
 http://live-hls.rtvcm.stream.flumotion.com/rtvcm/hls-multi/main.m3u8
-#EXTINF:-1, tvg-name="EspaÃ±a 5" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1353.png", EspaÃ±a 5
+#EXTINF:-1, tvg-name="EspaÃƒÂ±a 5" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1353.png", EspaÃƒÂ±a 5
 http://cls.todostreaming.eu/huelvatv/livestream/playlist.m3u8
-#EXTINF:-1, tvg-name="EspaÃ±a 6" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1355.png", EspaÃ±a 6
+#EXTINF:-1, tvg-name="EspaÃƒÂ±a 6" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1355.png", EspaÃƒÂ±a 6
 http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:tv3_web/chunklist_b798000.m3u8
-#EXTINF:-1, tvg-name="EspaÃ±a 7" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1357.png", EspaÃ±a 7
+#EXTINF:-1, tvg-name="EspaÃƒÂ±a 7" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1357.png", EspaÃƒÂ±a 7
 http://cdns724ste1010.multistream.net/tgsietelive/amlst:tvgranada/playlist_b750000.m3u8
-#EXTINF:-1, tvg-name="EspaÃ±a 8" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1359.png", EspaÃ±a 8
+#EXTINF:-1, tvg-name="EspaÃƒÂ±a 8" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1359.png", EspaÃƒÂ±a 8
 rtmp://corporacionextremenaocclivefs.fplive.net/corporacionextremenalive-live/stream1
-#EXTINF:-1, tvg-name="EspaÃ±a 9" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1361.png", EspaÃ±a 9
+#EXTINF:-1, tvg-name="EspaÃƒÂ±a 9" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1361.png", EspaÃƒÂ±a 9
 rtmp://media3.crtvg.es:80/live/tvge
-#EXTINF:-1, tvg-name="EspaÃ±a 10" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1363.png", EspaÃ±a 10
+#EXTINF:-1, tvg-name="EspaÃƒÂ±a 10" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1363.png", EspaÃƒÂ±a 10
 rtmp://62.210.141.18:1935/directo/lancelot.television
-#EXTINF:-1, tvg-name="EspaÃ±a 11" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1365.png", EspaÃ±a 11
+#EXTINF:-1, tvg-name="EspaÃƒÂ±a 11" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1365.png", EspaÃƒÂ±a 11
 http://teledifusion.tv:1935/informaciontvlive/informaciontvlive/.m3u8
-#EXTINF:-1, tvg-name="EspaÃ±a 12" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1367.png", EspaÃ±a 12
+#EXTINF:-1, tvg-name="EspaÃƒÂ±a 12" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1367.png", EspaÃƒÂ±a 12
 http://cls.todostreaming.eu/azahara/lepevision/chunklist.m3u8
-#EXTINF:-1, tvg-name="EspaÃ±a 13" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1369.png", EspaÃ±a 13
+#EXTINF:-1, tvg-name="EspaÃƒÂ±a 13" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1369.png", EspaÃƒÂ±a 13
 rtmp://cdn.s3.eu.nice264.com:1935/niceLiveServer/NTV_livenatvmb_MB_478ext
-#EXTINF:-1, tvg-name="EspaÃ±a 14" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1371.png", EspaÃ±a 14
+#EXTINF:-1, tvg-name="EspaÃƒÂ±a 14" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1371.png", EspaÃƒÂ±a 14
 http://iphone-streaming.ustream.tv/uhls/14420271/streams/live/iphone/playlist.m3u8
-#EXTINF:-1, tvg-name="EspaÃ±a 15" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1373.png", EspaÃ±a 15
+#EXTINF:-1, tvg-name="EspaÃƒÂ±a 15" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1373.png", EspaÃƒÂ±a 15
 http://iphonelive.rtve.es/24H_LV3_IPH/bitrate_2.m3u8
 #EXTINF:-1, tvg-name="Paraguay 1" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1742.png", Paraguay 1
 rtmp://70.36.100.38:1935/live/canal13_hq.stream
@@ -858,13 +667,13 @@ http://streamingcontrol.com:1935/tbbcentral/l1v1.sdp/playlist.m3u8
 http://aztecalive-lh.akamaihd.net/i/142kvpq0l_1@67741/master.m3u8
 #EXTINF:-1, tvg-name="Telecaribe" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/359.png", Telecaribe
 http://cdns840stu1010.multistream.net/telecaribelive/amlst:live/master.m3u8
-#EXTINF:-1, tvg-name="Venezolana de TelevisiÃ³n" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1251.png", Venezolana de TelevisiÃ³n
+#EXTINF:-1, tvg-name="Venezolana de TelevisiÃƒÂ³n" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1251.png", Venezolana de TelevisiÃƒÂ³n
 rtmp://cast.streamingconnect.tv/vtvweb3/vtvweb3
 #EXTINF:-1, tvg-name="TV Chile" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1523.png", TV Chile
 http://edge-11-mvstr.edge.mdstrm.com/tvn-live/smil:285a5c6dade574d5f111419c85c6cf17/playlist.m3u8
 #EXTINF:-1, tvg-name="C5N" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1147.png", C5N
 http://c5n.stweb.tv:1935/c5n/live_media/playlist.m3u8
-#EXTINF:-1, tvg-name="AmÃ©rica TelevisiÃ³n" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1157.png", AmÃ©rica TelevisiÃ³n
+#EXTINF:-1, tvg-name="AmÃƒÂ©rica TelevisiÃƒÂ³n" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1157.png", AmÃƒÂ©rica TelevisiÃƒÂ³n
 http://ooyalahd2-f.akamaihd.net/i/atv02_delivery@25405/index_564_av-p.m3u8
 #EXTINF:-1, tvg-name="Telesur" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1137.png", Telesur
 http://cdna.telesur.ultrabase.net/mbliveMain/ngrp:mblive_all/playlist.m3u8
@@ -918,7 +727,7 @@ http://www.metafilegenerator.de/DWelle/tv-latinoamerica/ios/master.m3u8
 http://www.razalive.com/demoface.php?id=1593&f=.m3u8
 #EXTINF:-1, tvg-name="TV 5 Monde" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/2014.png", TV 5 Monde
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TV5/tu1_manifest.m3u8
-#EXTINF:-1, tvg-name="Discovery en EspaÃ±ol" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1333.png", Discovery en EspaÃ±ol
+#EXTINF:-1, tvg-name="Discovery en EspaÃƒÂ±ol" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1333.png", Discovery en EspaÃƒÂ±ol
 http://www.razalive.com/demoface.php?id=3531&f=.m3u8
 #EXTINF:-1, tvg-name="Discovery Theater" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/29.png", Discovery Theater
 http://www.razalive.com/demoface.php?id=3798&f=.m3u8
@@ -928,7 +737,7 @@ http://www.razalive.com/demoface.php?id=3529&f=.m3u8
 http://www.razalive.com/demoface.php?id=252&f=.m3u8
 #EXTINF:-1, tvg-name="H2 Latinoamerica" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/119.png", H2 Latinoamerica
 http://www.razalive.com/demoface.php?id=297&f=.m3u8
-#EXTINF:-1, tvg-name="History en EspaÃ±ol" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/219.png", History en EspaÃ±ol
+#EXTINF:-1, tvg-name="History en EspaÃƒÂ±ol" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/219.png", History en EspaÃƒÂ±ol
 http://www.razalive.com/demoface.php?id=3704&f=.m3u8
 #EXTINF:-1, tvg-name="National Geographic Latinoamerica" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/217.png", National Geographic Latinoamerica
 http://www.razalive.com/demoface.php?id=395&f=.m3u8
@@ -952,7 +761,7 @@ http://www.razalive.com/demoface.php?id=445&f=.m3u8
 http://www.razalive.com/demoface.php?id=1695&f=.m3u8
 #EXTINF:-1, tvg-name="UFC Network Latinoamerica" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/625.png", UFC Network Latinoamerica
 http://www.razalive.com/demoface.php?id=9628&f=.m3u8
-#EXTINF:-1, tvg-name="BeinSports en EspaÃ±ol" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1239.png", BeinSports en EspaÃ±ol
+#EXTINF:-1, tvg-name="BeinSports en EspaÃƒÂ±ol" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1239.png", BeinSports en EspaÃƒÂ±ol
 http://www.razalive.com/demoface.php?id=2527&f=.m3u8
 #EXTINF:-1, tvg-name="Planeta Futbol" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/863.png", Planeta Futbol
 http://www.razalive.com/demoface.php?id=1477&f=.m3u8
@@ -1042,7 +851,7 @@ http://www.razalive.com/demoface.php?id=1039&f=.m3u8
 http://www.razalive.com/demoface.php?id=1459&f=.m3u8
 #EXTINF:-1, tvg-name="Lifetime Latinoamerica" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/161.png", Lifetime Latinoamerica
 http://www.razalive.com/demoface.php?id=423&f=.m3u8
-#EXTINF:-1, tvg-name="CNN en EspaÃ±ol" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/213.png", CNN en EspaÃ±ol
+#EXTINF:-1, tvg-name="CNN en EspaÃƒÂ±ol" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/213.png", CNN en EspaÃƒÂ±ol
 http://www.razalive.com/demoface.php?id=1855&f=.m3u8
 #EXTINF:-1, tvg-name="El Financiero Bloomberg" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1391.png", El Financiero Bloomberg
 http://www.razalive.com/demoface.php?id=2823&f=.m3u8
@@ -1052,9 +861,9 @@ http://urtmpkal-f.akamaihd.net/i/077zoqxzy_1@130091/index_3_av-p.m3u8
 http://www.razalive.com/demoface.php?id=1601&f=.m3u8
 #EXTINF:-1, tvg-name="CB24" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1595.png", CB24
 rtmp://ipointcablertmp.tulix.tv:1935/cb24stream/myStream.sdp
-#EXTINF:-1, tvg-name="Euronews en EspaÃ±ol" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1459.png", Euronews en EspaÃ±ol
+#EXTINF:-1, tvg-name="Euronews en EspaÃƒÂ±ol" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1459.png", Euronews en EspaÃƒÂ±ol
 http://fr-par-iphone-1.cdn.hexaglobe.net/streaming/euronews_ewns/ipad_es.m3u8
-#EXTINF:-1, tvg-name="RT en EspaÃ±ol" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/919.png", RT en EspaÃ±ol
+#EXTINF:-1, tvg-name="RT en EspaÃƒÂ±ol" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/919.png", RT en EspaÃƒÂ±ol
 http://rt-a.akamaihd.net/ch_02@325606/720p.m3u8
 #EXTINF:-1, tvg-name="TVE 24h" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1610.png", TVE 24h
 http://iphonelive.rtve.es/24H_LV3_IPH/bitrate_2.m3u8
